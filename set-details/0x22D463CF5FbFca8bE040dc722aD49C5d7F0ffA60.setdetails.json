@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "Woxchain Growth Set",
+  "symbol": "WOX",
+  "setToken": "0x22D463CF5FbFca8bE040dc722aD49C5d7F0ffA60",
+  "managerName": "Woxchain Team",
+  "description": "The WOX Set is designed to track the growth and ecosystem development of the Woxchain Layer-1 blockchain with staking and AI features.",
+  "website": "https://woxchain.com",
+  "icon": "wox.png",
+  "managerIcon": "woxteam.png",
+  "twitter": "https://x.com/woxchain",
+  "discord": "https://discord.gg/woxchain"
+}
